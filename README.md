@@ -257,9 +257,9 @@ Insight Generation: Identified top customers, at-risk groups, and churn patterns
 
 <br/><br/>
 
-**Thank you for taking the time to read this report!**
+**Thank you for reviewing this project!
+For questions or collaborations, feel free to reach out.**
 
-**Please reach out for any updates.**
-
-### Author
+### Connect with Me
 [Kelechi Emereole](https://github.com/KelechiEmereole)
+[Kelechi Emereole](https://www.linkedin.com/in/kelechi-emereole)
